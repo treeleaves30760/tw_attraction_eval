@@ -1,0 +1,1 @@
+python ask_GPT.py --input-folder /media/Pluto/stanley_hsu/github/TW_LLama3.2/Images
