@@ -1,0 +1,8 @@
+.conda/
+
+.env
+
+.DS_Store
+
+.vscode/
+
